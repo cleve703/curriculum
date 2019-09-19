@@ -147,6 +147,7 @@ Submit a link below to the [github repo](https://github.com/TheOdinProject/curri
 * [Husseinhewehii's Solution](https://github.com/Husseinhewehii/Pomodoro) - [View in Browser](https://husseinhewehii.github.io/Pomodoro/)
 * [TuSeMorte's Solution](https://github.com/TuSeMorte/pomodoro) - [View in Browser](https://tusemorte.github.io/pomodoro/)
 * [Jahmzu's Solution](https://github.com/jahmzu/TOP-pomodoro) - [View in Browser](https://jahmzu.github.io/TOP-pomodoro/)
+* [Jay's Solution](https://github.com/cleve703/pomodoro) - [View in Browser](https://salty-citadel-53627.herokuapp.com/index.html)
 </details>
 
 ### Next Steps
